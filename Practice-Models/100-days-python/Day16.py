@@ -47,3 +47,5 @@ class MyClass:
     def value(self):
         return self._value
 
+# just for maintaining streaks
+
